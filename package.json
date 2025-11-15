@@ -1,0 +1,22 @@
+{
+  "name": "workersmadeasy",
+  "version": "1.0.0",
+  "description": "An easy way to endpoint Cloudflare Workers with any app that needs an endpoint",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "endpoint",
+    "api",
+    "serverless"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
