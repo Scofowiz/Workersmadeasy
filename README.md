@@ -12,6 +12,12 @@ An easy way to endpoint Cloudflare Workers with any app that needs an endpoint.
 - 🔄 Dynamic route parameters
 - ⚡ Serverless and fast with Cloudflare Workers
 
+## Documentation
+
+- 📖 [Getting Started Guide](GETTING_STARTED.md) - Step-by-step setup instructions
+- 📚 [API Documentation](API.md) - Complete API reference
+- 🧪 [Manual Testing Guide](tests/MANUAL_TESTING.md) - Test your endpoints
+
 ## Quick Start
 
 ### Prerequisites
