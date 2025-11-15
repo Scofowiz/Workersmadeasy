@@ -1,0 +1,10 @@
+name = "workersmadeasy"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+# Configuration for different environments
+[env.production]
+name = "workersmadeasy-prod"
+
+[env.staging]
+name = "workersmadeasy-staging"
